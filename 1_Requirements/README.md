@@ -72,7 +72,7 @@ The SWOT analysis of the project is shwon through the below table:
 
 ## How:
 
-**The problem statement would be proceeded first by some research work and deciding what all the features we want to add and implement. Next we had do workflow diagrams for better understanding of our problem statement, and the project will be going through agile so that minimum amount of time would be spent and the project would be error free. **
+**The problem statement would be proceeded first by some research work and deciding what all the features we want to add and implement. Next we had do workflow diagrams for better understanding of our problem statement, and the project will be going through agile so that minimum amount of time would be spent and the project would be error free.**
 
 # Detail requirements
 ## High Level Requirements:
