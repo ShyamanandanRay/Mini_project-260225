@@ -43,7 +43,10 @@ Time used in development.
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+The SWOT analysis of the project is shwon through the below table:
+
+![image](https://user-images.githubusercontent.com/63411688/114213946-50c74680-9981-11eb-9267-5ebbff47cf2b.png)
+
 
 # 4W&#39;s and 1&#39;H
 
