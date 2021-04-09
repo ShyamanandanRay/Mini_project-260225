@@ -52,7 +52,10 @@ The SWOT analysis of the project is shwon through the below table:
 
 ## Who:
 
-**TBD**
+**The project will be involving mainly three categories of users :
+     1. Normal users - Who's main motive is to watch movie by booking and paying for the tickets
+     2. Admin - Who is incharge of managing the shows timing & dates, managing the price of the tickets, adding and deleting movies from movie list
+     3. Controllers - Who's incharge of managing the users' tickets & unpayed tickets.**
 
 ## What:
 
