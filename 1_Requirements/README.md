@@ -8,7 +8,7 @@ Movie ticket booking reservation provides ticket booking for the film, seat mana
 
 
 ## Research
-![Description](Link to Pic)
+
 The project would be a simple interactive application which would be using all the concepts of C and other concepts trained in our training like multi files, testing, debugging, documentation, etc. 
 This project will have three access that is for User, Admin and Moderator. 
 ### User Mode—where users can view the available movies and book tickets.
@@ -17,7 +17,29 @@ This project will have three access that is for User, Admin and Moderator.
 
 ## Cost and Features
 ![Description](Link to Pic)
--- Content 
+### Cost-
+To make a proper Movie ticket booking system, developer have to meet with the target audience to discuss the features they want to be integrated into the app. The best way to collect this sort of information is by use of surveys and interviews. The audience could be young people or older adults. They could also be professionals such as managers, doctors, lawyers, business owners, and etc. But as this is a mini-project we will be having limited features and cost but the essentials ones which would make the ticket booking management easier.
+The UI is made with C. 
+Time used in development.
+
+### Features-
+#### User Mode-
+1.1. Viewing the list of movies.
+1.2. Selecting and booking the number of seats for the particular movie.
+1.3. Paying the fees for booking.
+1.4. Viewing the booked ticket of the movie for the particular user.
+
+#### Admin Mode-
+2.1. Adding movies in movie list.
+2.2. Deleting movies form movie list.
+2.3. Earnings management.
+2.4. Management of shows timings and dates.
+
+
+#### Moderator Mode-
+3.1. Managing the users' tickets.
+3.2 Deleting tickets and managing unpayed tickets.
+
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
