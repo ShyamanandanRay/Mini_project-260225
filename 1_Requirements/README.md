@@ -59,19 +59,20 @@ The SWOT analysis of the project is shwon through the below table:
 
 ## What:
 
-**TBD**
+**The project is based on movie ticket reservation, which would be done with simple and minimalistic user friendly app built with C language.
+  It has many features like viewing movies, booking the tickets, viewing the paid ticket, adding/ deleting movies from list, managing the revenue and total booked seats etc.**
 
 ## When:
 
-**TBD**
+**This project is a minimal app having basic yet useful features. But in futurework more features can be added and the UI can be done attractive. That might take some resources  man and time. With the current problem statement that is building an app for reserving and managing movie tickets it would take around 1 week of time period inclduing all testing and documentation work if there's only a single developer**
 
 ## Where:
 
-**TBD**
+**The project is mainly for the ease of booking and managing the tickets of a movie theater**
 
 ## How:
 
-**TBD**
+**The problem statement would be proceeded first by some research work and deciding what all the features we want to add and implement. Next we had do workflow diagrams for better understanding of our problem statement, and the project will be going through agile so that minimum amount of time would be spent and the project would be error free. **
 
 # Detail requirements
 ## High Level Requirements:
