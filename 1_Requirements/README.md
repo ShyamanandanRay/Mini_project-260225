@@ -84,8 +84,8 @@ The SWOT analysis of the project is shwon through the below table:
 
 | ID            | Description   | Status      |
 | :-----------: | :-----------: |:-----------:|
-| Content Cell  | Content Cell  |  TBD        |
-| Content Cell  | Content Cell  |   TBD       |
+| HR01          | Booking Movie Ticktes  |  TBD        |
+| HR02  | Managing Movie Tickets  |   TBD       |
 
 
 ##  Low level Requirements:
