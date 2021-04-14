@@ -81,9 +81,12 @@ The SWOT analysis of the project is shwon through the below table:
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
+
 -- ID | Description | Status (Implemented/Future)
--- HR01 | Booking and Managing Movie Tickets | TBD
+| ID            | Description   | Status |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 ##  Low level Requirements:
