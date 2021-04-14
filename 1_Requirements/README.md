@@ -82,10 +82,10 @@ The SWOT analysis of the project is shwon through the below table:
 # Detail requirements
 ## High Level Requirements:
 
-| ID            | Description   | Status |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ID            | Description   | Status      |
+| :-----------: | :-----------: |:-----------:|
+| Content Cell  | Content Cell  |  TBD        |
+| Content Cell  | Content Cell  |   TBD       |
 
 
 ##  Low level Requirements:
