@@ -9,7 +9,10 @@
 ## Low Level Design 
 
 ### Sequence Diagram
-![Screenshot (42)](https://user-images.githubusercontent.com/63411688/114831702-5098d200-9deb-11eb-9b23-bba6d59e201b.png)
+
+![Screenshot (43)](https://user-images.githubusercontent.com/63411688/114832056-ae2d1e80-9deb-11eb-99b0-414f3f545eee.png)
+
+
 
 
 
