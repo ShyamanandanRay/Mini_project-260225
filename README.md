@@ -1,4 +1,4 @@
-# SDLC Activity Based Learning
+# Movie Booking & Management
 
 Visit [Pages for Report -optional](using github.io option)
 

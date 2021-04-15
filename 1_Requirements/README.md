@@ -56,6 +56,11 @@ The SWOT analysis of the project is shwon through the below table:
      1. Normal users - Who's main motive is to watch movie by booking and paying for the tickets
      2. Admin - Who is incharge of managing the shows timing & dates, managing the price of the tickets, adding and deleting movies from movie list
      3. Controllers - Who's incharge of managing the users' tickets & unpayed tickets.**
+     
+     - Product Owner: Client's Movie Theatre
+     - Developer: L&T Technology Services
+     - Tester: Shyamanandan Ray (260225)
+     - Lead/Manager/Architects: Shyamanandan Ray (260225)
 
 ## What:
 
@@ -76,10 +81,21 @@ The SWOT analysis of the project is shwon through the below table:
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+| ID            | Description   | Status      |
+| :-----------: | :-----------: |:-----------:|
+| HR01          | Booking Movie Ticktes  |  TBD        |
+| HR02  | Managing Movie Tickets  |   TBD       |
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+| ID            | Description   | HLR ID      |Status       |
+| :-----------: | :-----------: |:-----------:|:-----------:|
+| LR01          | Book Tickets by user  |  HR01      |TBD        |
+| LR02  | Pay for the Tickets  | HR01           |TBD       |
+| LR03  | Add Movies in movie list | HR02 | TBD   |
+| LR04  | Delete movies from list  | HR02 | TBD   |
+| LR05  | View Movie List          | HR02 | TBD   |
+| LR06  | View Booked User List    | HR02 | TBD   |
+| LR07  | Login for Admin          | HR02 | TBD   |
