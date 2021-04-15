@@ -1,8 +1,0 @@
-shyama shyama@gmail.com 6 1200 tom&Jerry 200 
-Anmol anmol_22@gmail.com 4 800 tom&Jerry 200 
-Girish giri@gmail.com 2 400 tom&Jerry 200 
-shyama shyama@123 2 400 CanCatchme 200 
-garima rstww@gmail.com 5 1000 CanCatchme 200 
-garima terr@gmail.com 2 400 CanCatchme 200 
-SHyama shyama@1234@gmail.com 4 800 CanCatchme 200 
-Shyama Shyama@123 1 200 CanCatchme 200 
