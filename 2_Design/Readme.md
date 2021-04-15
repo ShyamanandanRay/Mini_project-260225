@@ -8,6 +8,11 @@
 
 ## Low Level Design 
 
---- TBD Structural and Behavioural Diagram
-![FeaturesLevelStructuralDiagram](Link to Pic)
-![FeaturesBehaviouralDiagram](Link to Pic)
+### Sequence Diagram
+
+![Screenshot (43)](https://user-images.githubusercontent.com/63411688/114832056-ae2d1e80-9deb-11eb-99b0-414f3f545eee.png)
+
+
+
+
+
