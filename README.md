@@ -1,3 +1,5 @@
+[![Code Quality - Static Code - Cppcheck](https://github.com/ShyamanandanRay/Mini_project-260225/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ShyamanandanRay/Mini_project-260225/actions/workflows/cppcheck.yml)
+
 # Movie Booking & Management
 Going to cinemas has been the culture of almost all the families of today’s generation.It is a time when the family can spend some time altogether by stealing some hours from their busy schedule. Cinemas help in contributing in our daily memories as they provide an essential part of our culture.
 
