@@ -16,7 +16,7 @@ This project will have three access that is for User, Admin and Moderator.
 ### Moderator Mode—where moderators can manage all the users’ tickets.
 
 ## Cost and Features
-![Description](Link to Pic)
+
 ### Cost-
 To make a proper Movie ticket booking system, developer have to meet with the target audience to discuss the features they want to be integrated into the app. The best way to collect this sort of information is by use of surveys and interviews. The audience could be young people or older adults. They could also be professionals such as managers, doctors, lawyers, business owners, and etc. But as this is a mini-project we will be having limited features and cost but the essentials ones which would make the ticket booking management easier.
 The UI is made with C. 
@@ -40,8 +40,7 @@ Time used in development.
 3.1. Managing the users' tickets.
 3.2 Deleting tickets and managing unpayed tickets.
 
-## Defining Our System
-    -- TBD
+
 ## SWOT ANALYSIS
 The SWOT analysis of the project is shwon through the below table:
 
