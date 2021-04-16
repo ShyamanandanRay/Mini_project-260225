@@ -1,2 +1,2 @@
-username to access admin : admin
+username to access admin : user
 password : pass
