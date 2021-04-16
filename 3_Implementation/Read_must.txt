@@ -1,0 +1,2 @@
+username to access admin : admin
+password : pass

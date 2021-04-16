@@ -7,7 +7,7 @@ void login()
 	int a=0,i=0;
     char uname[10],c=' '; 
     char pword[10],code[10];
-    char user[10]="user";
+    char user[10]="admin";
     char pass[10]="pass";
     do
 {
@@ -28,7 +28,7 @@ void login()
 	//char code=pword;
 	i=0;
 	//scanf("%s",&pword); 
-		if(strcmp(uname,"user")==0 && strcmp(pword,"pass")==0)
+		if(strcmp(uname,"admin")==0 && strcmp(pword,"pass")==0)
 	{
 	printf("  \n\n\n       WELCOME TO OUR BOOKING SYSTEM !!!! LOGIN IS SUCCESSFUL");
 	printf("\n\n\n\t\t\t\tPress any key to continue...");
