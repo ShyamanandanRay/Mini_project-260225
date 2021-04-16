@@ -72,6 +72,15 @@ void book_ticket();
 
 void old_record();
 
+/**
+ * @brief To change the price of the movie by admin
+ * 
+ * @param price price of the movie
+ * @return int 
+ */
+int change_price(int price);
+
+
 void front();
 
 #endif

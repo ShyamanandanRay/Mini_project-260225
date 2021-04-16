@@ -10,6 +10,7 @@ src/insert.c\
 src/login.c\
 src/old.c\
 src/view.c\
+src/price_change.c\
 
 TEST_SRC = test/test.c\
 unity/unity.c
